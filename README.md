@@ -13,6 +13,6 @@ This is a spear phishing practice (IN5290 UIO)
     - Sanitizes the input values.
     - Stores the data in a text file named `password_update.txt`.
 
-You can view the demonstration on the live website here: http://awardspacepwd.atwebpages.com. Please note that this demonstration is designed for educational purposes as part of my IN5290 course code challenge. Do not input any real account credentials.
+You can view the demonstration on the live website here: http://awardspacepwd.atwebpages.com/index.html. Please note that this demonstration is designed for educational purposes as part of my IN5290 course code challenge. Do not input any real account credentials.
 
 
